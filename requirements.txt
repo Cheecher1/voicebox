@@ -10,7 +10,7 @@ tqdm
 jiwer
 librosa
 pandas
-protobuf==3.20.0
+protobuf
 git+https://github.com/ludlows/python-pesq#egg=pesq
 psutil
 pystoi
